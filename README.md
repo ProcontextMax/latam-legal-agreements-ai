@@ -611,6 +611,10 @@ I maintain this repo in my free time so freelancers, agencies and devs can gener
 > This context layer is **informational only** and does not constitute legal, tax or accounting advice. Drafts generated with it require review by a licensed lawyer in the relevant jurisdiction before signing. The author is not liable for decisions made based on this layer.
 
 ---
+---
+
+🔗 **Parte del [LATAM AI Context Ecosystem](https://github.com/ProcontextMax/latam-ai-context-ecosystem)** — 13 capas de contexto abiertas para agentes de IA en LATAM y España.  
+🔗 **Part of the [LATAM AI Context Ecosystem](https://github.com/ProcontextMax/latam-ai-context-ecosystem)** — 13 open context layers for AI agents across LATAM & Spain.
 
 <p align="center">
   <sub>Built with 🟡 by <a href="https://ko-fi.com/yellowtips">Yellow Tips</a> · If this helped you, ⭐ the repo and share it.</sub>
